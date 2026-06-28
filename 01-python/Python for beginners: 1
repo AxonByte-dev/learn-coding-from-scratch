@@ -11,6 +11,8 @@ Python can look confusing at first look but very easy to understand when you und
 Before starting the tutorials, make sure you download these tools:
 * [Download VS Code Editor](https://visualstudio.com) — The most popular tool for writing code.
 * [Download Python](https://python.org) — Required to run your Python scripts.
+ 💡 **Important Tip for Windows Users:** When installing Python, make sure to check the box that says **"Add python.exe to PATH"** on the very first installer screen! If you miss this, VS Code won't be able to run your scripts.
+
   After you have installed them we can start coding!
 
 Variable: Variables are boxes which can store a value and hold onto them.

@@ -1,4 +1,4 @@
-# 🚀 Ultimate 50-Languages Learning Hub
+50-Languages Learning Hub
 
 Welcome! This repository is an open-source, one-stop-shop designed to help beginners learn 50 different programming languages. 
 
@@ -16,3 +16,5 @@ Each language folder features core syntax guides, AI-assisted code examples, and
 
 ## 🤝 Contributing
 Found a typo, an outdated code snippet, or a broken video link? Pull requests are highly welcome! Check out our license details in the `LICENSE` file.
+
+Right now I have covered 1/50 languages

@@ -18,4 +18,4 @@ Before starting the tutorials, make sure you download these tools:
 Variable: Variables are boxes which can store a value and hold onto them.
 You can make a variable in python by first entering a name then adding "=" to assign it a value, for example- test_variable = "Hello new coders"
 
-But how can we use the variable?, you may ask so now we are going to learn how to print statements. We can print anything
+But how can we use the variable?, you may ask so now we are going to learn how to print statements. We can print anything using print statements

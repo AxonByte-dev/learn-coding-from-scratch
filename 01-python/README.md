@@ -1,0 +1,19 @@
+Hello fellow learners! This file is made for people who want to learn python, so if you are one of them then you are at the right space.
+I am a beginner too just like you all and I have made this repository with all of the tutorials, and contents to help you all learn python.
+
+Python is a very popular high level programming language with very easy syntaxes which makes it suitable and easy for beginners
+
+Python is very popular coding languages and used for data science, machine learning, web development etc.
+
+Python can look confusing at first look but very easy to understand when you understand it.
+
+### 🛠️ Required Software
+Before starting the tutorials, make sure you download these tools:
+* [Download VS Code Editor](https://visualstudio.com) — The most popular tool for writing code.
+* [Download Python](https://python.org) — Required to run your Python scripts.
+  After you have installed them we can start coding!
+
+Variable: Variables are boxes which can store a value and hold onto them.
+You can make a variable in python by first entering a name then adding "=" to assign it a value, for example- test_variable = "Hello new coders"
+
+But how can we use the variable?, you may ask so now we are going to learn how to print statements. We can print anything

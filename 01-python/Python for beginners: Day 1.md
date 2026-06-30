@@ -8,7 +8,7 @@ Python is a very popular, high-level programming language with a very easy synta
 
 ### 🛠️ Required Software
 Before starting the tutorials, make sure you download these tools:
-* [Download VS Code Editor](https://visualstudio.com) — The most popular tool for writing code.
+* [Download VS Code Editor](https://visualstudiocode.com) — The most popular tool for writing code.
 * [Download Python](https://python.org) — Required to run your Python scripts.
 
 💡 **Important Tip for Windows Users:** When installing Python, make sure to check the box that says **"Add python.exe to PATH"** on the very first installer screen! If you miss this, VS Code won't be able to run your scripts properly.

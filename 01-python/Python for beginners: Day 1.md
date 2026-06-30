@@ -48,7 +48,7 @@ There are several types of data in Python, but these 4 main data types are the f
 ---
 
 Now that we have covered the basics, I think it's enough for today, guys! Take a rest and get ready to start with the course for Day 2.
-[Go to Day 2 Tutorial](./Python%20for%20Beginners:%20Day%202)
+[Go to Day 2 Tutorial](./Python%20for%20Beginners:%20Day%202.md)
 
 
 
